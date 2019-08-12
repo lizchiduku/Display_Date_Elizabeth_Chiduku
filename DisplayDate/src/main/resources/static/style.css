@@ -1,0 +1,21 @@
+#time{
+	padding: 100px;
+	color: green;
+	text-align:center;
+}
+#date{
+	padding: 100px;
+	color: blue;
+	text-align:center;
+}
+.all{
+	text-align:center;
+	margin-top: 100px;
+}
+#one{
+	display:inline;
+	margin-right: 15%;
+}
+#two{
+	display:inline;
+}
